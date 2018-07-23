@@ -1,0 +1,22 @@
+/* your styles go here */
+
+.fish {
+	widows:500px;
+	height:600px;
+	max-height: 600px;
+	border-radius: 10px;
+}
+
+.stocking {
+	width:500px;
+	max-height:700px;
+	border-radius: 25px;
+}
+
+.lake {
+	border-radius: 25px;
+}
+
+.fish-list {
+	font-size: 25px;
+}
